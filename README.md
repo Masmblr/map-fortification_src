@@ -31,11 +31,11 @@ Delving deeper into the mysteries of the abandoned military base, players will d
 [<img src="meta/preview_levelshots/13.jpg" width="250"/>](meta/preview_levelshots/13.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0     | 20/09/2016  | beta | :x:        |     
-| 1.1     | 26/09/2016  | beta | :x:        |     
-| 1.2     | 29/09/2016  | final | [💾](https://github.com/Masmblr/map-Fortification_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.0     | 20/09/2016  | beta |
+| 1.1     | 26/09/2016  | beta |
+| 1.2     | 29/09/2016  | release |
 
 ## How-To
 **Binary**:
@@ -131,7 +131,7 @@ textures\fortification\weather.jpg <sup>[1](#Credit-1)</sup>
 
 ### Credit-1
 
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
