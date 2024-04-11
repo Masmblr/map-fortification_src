@@ -1,7 +1,7 @@
 # Fortification - Game Level For Tremulous
 ![header](meta/header/header.jpg) 
 
-## Overview: Sci-Fi Military Base in the Sahara
+## Overview: Sci-Fi military base in the Sahara
 
 Fortification is a game level by Matthias "Masmblr" Peters for the open source game [_Tremulous_](https://tremulous.net/).
 
