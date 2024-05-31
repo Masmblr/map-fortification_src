@@ -207,7 +207,7 @@ textures/fortification/light_03
 	q3map_lightSubdivide 120
 	//q3map_lightRGB	0.58 0.52 0.46
 	q3map_lightmapFilterRadius 0 16
-	surfaceparm nonsolid
+	//surfaceparm nonsolid
 	{
 		map $lightmap
 		rgbGen identity
